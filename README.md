@@ -75,3 +75,8 @@ Maps are defined in .cub files. Each file contains:
     Textures: For the walls, floor, and ceiling.
     Map layout: Describes the maze using a grid of characters (e.g., '1' for walls, '0' for empty space).
     Resolution: Defines the window size for the game.
+
+
+## Licence
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
