@@ -56,7 +56,7 @@ make
 ```
 Run the game:
 ```bash
-./cub3d <map_file.cub>
+./cub3D <map_file.cub>
 ```
 ### Controls
 
